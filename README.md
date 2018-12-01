@@ -9,7 +9,6 @@ APP 列表
  --------------------------|--------------------------|-------------------------
  luci-app-chinadns         | [openwrt-chinadns][5]    | LuCI Support for ChinaDNS
  luci-app-dns-forwarder    | [openwrt-dns-forwarder][6]| LuCI Support for Dns-Forwarder
- luci-app-shadowvpn        | [openwrt-shadowvpn][8]   | LuCI Support for ShadowVPN
 
 编译说明
 ---
@@ -36,5 +35,4 @@ make package/openwrt-dist-luci/compile V=99
  [2]: https://github.com/aa65535/openwrt-dist-luci/releases/latest
  [5]: https://github.com/aa65535/openwrt-chinadns
  [6]: https://github.com/aa65535/openwrt-dns-forwarder
- [8]: https://github.com/aa65535/openwrt-shadowvpn
  [S]: https://wiki.openwrt.org/doc/howto/obtain.firmware.sdk
